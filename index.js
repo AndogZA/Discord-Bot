@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const ytdl = require("ytdl-core");
 const bot = new Discord.Client();
 
-const token = 'NzEwNjMzNzI3MjQzNDUyNDM3.Xr5gbw.oj3uhwNaObDYDgUY9bLbNVvSf-4';
+const token = '';
 
 const PREFIX = '$';
 
